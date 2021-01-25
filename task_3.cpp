@@ -97,5 +97,6 @@ CHOICE:
         goto CHOICE;
     }
 
+    return 0;
 
 }
